@@ -1,0 +1,8 @@
+body {
+    margin-top: 3%;
+    background-color: gray;
+}
+
+canvas {
+    background-color: rgba(211, 211, 211, 0.678);
+}
